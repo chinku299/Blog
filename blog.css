@@ -1,0 +1,17 @@
+
+.nav{
+	background-color: rgb(22, 140, 64);
+	flood-color: ;
+	padding: 10px, 10px;
+}
+.paragraphs{
+	font-family: cursive;
+}
+.container{
+	width: 100px;
+}
+.drop-files{
+	float: right;
+	font-family: cursive;
+}
+
